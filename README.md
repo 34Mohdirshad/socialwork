@@ -60,7 +60,7 @@ sum_of_three(num1, num2=0, num3=0) → Demonstrates default arguments.
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/python-basics-practice.git
+git clone https://https://github.com/34Mohdirshad
 
 
 2. Navigate to the project folder:
